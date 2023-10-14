@@ -1,7 +1,7 @@
 # TECH6301 Mini Project: Bank Account 
 
+
 class BankAccount:
-    
     account_counter = 0
 
     def __init__(self, name, accountType, balance=0):
